@@ -1,0 +1,131 @@
+---
+title: "DAPP Fellowship Introduction"
+author: "Mon Chit"
+date: "2023-06-30"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Data Analysis for Public Policy Fellowship
+
+- 6-month Data Analysis for Public Policy Fellowship
+
+- Empowers young professionals with data analytics skills
+
+- Addresses public policy challenges and drives social change
+
+- Comprehensive training in data science methodologies
+
+- Utilizes tools like R, GitHub, and advanced statistical techniques
+
+
+## Slide with Bullets
+
+1. Develop Data Analytic Proficiency: Equip fellows with the essential skills and practical expertise required to analyze, interpret, and visualize complex datasets.
+
+1. Strengthen Technical Skills: Enhance proficiency in data manipulation, advanced statistical analysis, data visualization, and programming languages.
+
+1. Bridge Theory and Practice: Enable fellows to apply data-driven approaches to real-world policy and social issues, fostering evidence-based decision-making.
+
+1. Foster Collaborative Learning: Create a supportive community of practice, encouraging fellows to share knowledge, exchange ideas, and collaborate on interdisciplinary projects.
+
+
+
+## Program Structure
+- Duration: 6 months (August 2023 - January 2024)
+
+- Commitment: Fellows are expected to dedicate 
+
+  + 3 hours to online learning and coding labs 
+  + 10 hours for volunteer services per week 
+    
+      - 2 hours on Tue, Wed, Thurs, Fri  
+      - 5 hours on Sat
+      
+- Online Learning: Interactive virtual Zoom sessions 
+
+
+
+## Target Audience
+
+- young professionals in M&E or research-related roles
+
+- Open to individuals aspiring to pursue careers in these fields
+
+- Strong interest in data analysis is required
+
+- Commitment to using data for evidence-based decision-making in public policy
+
+- Focuses on cultivating skills for data-driven policy work
+
+
+## Topics Covered:
+
+  - Introduction to Data Science using R
+  
+  - XLS Programming for Open Data Kit 
+  
+    + Basic 
+    + Advanced
+  
+  - Mastering Data Visualization with R
+  
+  - Introduction to Impact Evaluation
+  
+
+## Introduction to Data Science using R
+
+```{r echo=FALSE,  fig.cap = "Reference Book", fig.width = 1, fig.height = 2, out.width = "20%", fig.align = "center"}
+
+knitr::include_graphics("cover.png")
+
+```
+
+- `import`
+- `tidy`
+- `transform` 
+
+
+## XLS Programming for Open Data Kit 
+
+- Basic 
+
+  + Question Types 
+  + Question Flow Management 
+  + Constraints 
+  + Cascading Select 
+  + Grouping Module and Loop
+
+- Advanced 
+  + Built-in data quality control (`calculation`)
+  + Use external dataset (`search` and `pulldata`)
+  + Application of repeat group module (`index-repeat()`) 
+
+
+
+## Mastering Data Visualization with R
+
+```{r echo=FALSE,  fig.cap = "Reference Book", fig.width = 1, fig.height = 2, out.width = "20%", fig.align = "center"}
+
+knitr::include_graphics("cover.png")
+
+```
+
+- `Visualize`
+
+
+## Introduction to Impact Evaluation
+
+```{r echo=FALSE,  fig.cap = "Reference Book", fig.width = 1, fig.height = 2, out.width = "20%", fig.align = "center"}
+
+knitr::include_graphics("mixtap.jpg")
+```
+
+- Potential Outcomes Causal Model
+- Introduction to Experiment and Qusi-Experiment Method 
+
+
+## Q & A
